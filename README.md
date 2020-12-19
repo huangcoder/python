@@ -7,4 +7,4 @@ Python全套视频教程，史上最经典 https://www.bilibili.com/video/BV1974
 ## 实战教程
 Jetbrain  https://hyperskill.org/knowledge-map?v=table
 
-![知识地图](/path/to/python-learning/WechatIMG54.png)
+![知识地图](/python-learning/WechatIMG54.png)
